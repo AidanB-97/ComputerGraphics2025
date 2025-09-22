@@ -1,4 +1,4 @@
-# ComputerGraphics2025
+# ComputerGraphicsLab1,2025
 These are the photos for challenges 2 & 4
 <img width="946" height="592" alt="Screenshot 2025-09-18 235244" src="https://github.com/user-attachments/assets/d50e8904-f704-44ef-beee-2ab66044e259" />
 <img width="1466" height="750" alt="Screenshot 2025-09-18 235354" src="https://github.com/user-attachments/assets/a01bf5c3-0483-49e5-8c9e-07aea4c53ab5" />
